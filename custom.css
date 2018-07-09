@@ -1,13 +1,13 @@
 .CodeMirror pre {
-        font-family:    "Menlo", "Ubuntu Mono",  monospace;
-        font-size:      12px;
+        font-family:    "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        font-size:      14px;
         letter-spacing  0.0em;
         line-height:    1.5em;
 }
 
 .output pre {
-        font-family:    "Menlo", "Ubuntu Mono",  monospace;
-        font-size:      10px;
+        font-family:    "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        font-size:      12px;
         letter-spacing  0.0em;
         line-height:    1.2em;
 }
