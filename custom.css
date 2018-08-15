@@ -1,3 +1,7 @@
 .introspection, .input_prompt, .output_prompt, .CodeMirror pre, .output pre {
         font-family:    "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
+
+.output pre {
+        font-size:      smaller;
+}
