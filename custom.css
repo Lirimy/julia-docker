@@ -1,13 +1,3 @@
-.CodeMirror pre {
+.introspection, .input_prompt, .output_prompt, .CodeMirror pre, .output pre {
         font-family:    "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-        font-size:      14px;
-        letter-spacing  0.0em;
-        line-height:    1.5em;
-}
-
-.output pre {
-        font-family:    "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-        font-size:      12px;
-        letter-spacing  0.0em;
-        line-height:    1.2em;
 }
